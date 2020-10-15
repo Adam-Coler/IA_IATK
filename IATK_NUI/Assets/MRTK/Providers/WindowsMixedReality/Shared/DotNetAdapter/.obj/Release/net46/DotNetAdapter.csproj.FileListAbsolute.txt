@@ -1,0 +1,10 @@
+C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Assets\MRTK\Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Editor.asmdef
+C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Assets\MRTK\Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Editor.asmdef.meta
+C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Assets\MRTK\Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Init.cs
+C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Assets\MRTK\Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\Editor\Microsoft.Windows.MixedReality.DotNetWinRT.Init.cs.meta
+C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Assets\MRTK\Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\x64\MonoSupport.dll
+C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Assets\MRTK\Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT\x64\MonoSupport.dll.meta
+C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Assets\MRTK\Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\Microsoft.Windows.MixedReality.DotNetWinRT.dll
+C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Assets\MRTK\Providers\WindowsMixedReality\Shared\DotNetAdapter\.bin\net46\System.Drawing.Primitives.dll
+C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Assets\MRTK\Providers\WindowsMixedReality\Shared\DotNetAdapter\.obj\Release\net46\DotNetAdapter.csprojAssemblyReference.cache
+C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Assets\MRTK\Providers\WindowsMixedReality\Shared\DotNetAdapter\.obj\Release\net46\DotNetAdapter.csproj.CopyComplete
