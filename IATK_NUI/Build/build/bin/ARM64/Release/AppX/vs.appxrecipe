@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NUILABL00</Machine>
+    <WindowsUser>Adam6</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|ARM64</SolutionConfiguration>
+    <PackageArchitecture>arm64</PackageArchitecture>
+    <PackageIdentityName>a789fa78-987e-44cf-be88-2da5be7209df</PackageIdentityName>
+    <PackageIdentityPublisher>CN=DefaultCompany</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\build\obj\IATK_NUI\ARM64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>CopyToDevice</RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>false</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\build\bin\ARM64\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>C35CD5F1653DC3C3C882E8FE644EE9C36D719AAC379C105FEB315648D8FB8665</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>IATKNUI_1.0.0.0_arm64__pzq3xp76mxafg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>IATKNUI_pzq3xp76mxafg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>IATKNUI</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=DefaultCompany</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\build\bin\ARM64\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-10-16T17:48:29.011</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\build\bin\ARM64\Release\IATK_NUI.exe">
+      <PackagePath>IATK_NUI.exe</PackagePath>
+      <Modified>2020-10-16T17:48:28.356</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Unity\Hub\Editor\2019.2.18f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\ARM64\Release\UnityPlayer.winmd">
+      <PackagePath>UnityPlayer.winmd</PackagePath>
+      <Modified>2020-01-07T09:38:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Unity\Hub\Editor\2019.2.18f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\ARM64\Release\UnityPlayer.dll">
+      <PackagePath>UnityPlayer.dll</PackagePath>
+      <Modified>2020-01-07T09:38:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\build\bin\ARM64\Release\IATK_NUI.winmd">
+      <PackagePath>IATK_NUI.winmd</PackagePath>
+      <Modified>2020-10-16T17:14:02.739</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-07T08:27:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-07T08:27:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-07T08:27:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-07T08:27:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-07T08:27:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-07T08:27:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-07T08:27:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\NuGet.config">
+      <PackagePath>NuGet.config</PackagePath>
+      <Modified>1985-10-26T08:15:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\boot.config">
+      <PackagePath>Data\boot.config</PackagePath>
+      <Modified>2020-10-16T17:46:55.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\etc\mono\2.0\machine.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\machine.config</PackagePath>
+      <Modified>2020-01-07T08:18:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\etc\mono\2.0\web.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\web.config</PackagePath>
+      <Modified>2020-01-07T08:18:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\etc\mono\4.0\machine.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\machine.config</PackagePath>
+      <Modified>2020-01-07T08:18:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\etc\mono\4.0\web.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\web.config</PackagePath>
+      <Modified>2020-01-07T08:18:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\etc\mono\4.5\machine.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\machine.config</PackagePath>
+      <Modified>2020-01-07T08:18:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\etc\mono\4.5\web.config">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\web.config</PackagePath>
+      <Modified>2020-01-07T08:18:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+      <Modified>2020-10-16T17:46:56.380</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\etc\mono\mconfig\config.xml">
+      <PackagePath>Data\il2cpp_data\etc\mono\mconfig\config.xml</PackagePath>
+      <Modified>2020-01-07T08:18:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\globalgamemanagers">
+      <PackagePath>Data\globalgamemanagers</PackagePath>
+      <Modified>2020-10-16T17:46:51.843</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\level0">
+      <PackagePath>Data\level0</PackagePath>
+      <Modified>2020-10-16T17:46:49.512</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\etc\mono\config">
+      <PackagePath>Data\il2cpp_data\etc\mono\config</PackagePath>
+      <Modified>2020-01-07T08:18:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\Resources\unity default resources">
+      <PackagePath>Data\Resources\unity default resources</PackagePath>
+      <Modified>2020-01-07T08:27:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\Resources\unity_builtin_extra">
+      <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
+      <Modified>2020-10-16T17:46:55.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\globalgamemanagers.assets">
+      <PackagePath>Data\globalgamemanagers.assets</PackagePath>
+      <Modified>2020-10-16T17:46:51.982</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\resources.assets">
+      <PackagePath>Data\resources.assets</PackagePath>
+      <Modified>2020-10-16T17:46:52.372</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\sharedassets0.assets">
+      <PackagePath>Data\sharedassets0.assets</PackagePath>
+      <Modified>2020-10-16T17:46:54.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\nativePlugins.txt">
+      <PackagePath>Data\nativePlugins.txt</PackagePath>
+      <Modified>2020-10-16T17:47:58.475</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\resources.assets.resS">
+      <PackagePath>Data\resources.assets.resS</PackagePath>
+      <Modified>2020-10-16T17:46:52.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\sharedassets0.assets.resS">
+      <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
+      <Modified>2020-10-16T17:46:54.429</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\etc\mono\browscap.ini">
+      <PackagePath>Data\il2cpp_data\etc\mono\browscap.ini</PackagePath>
+      <Modified>2020-01-07T08:18:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\DefaultWsdlHelpGenerator.aspx</PackagePath>
+      <Modified>2020-01-07T08:18:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\DefaultWsdlHelpGenerator.aspx</PackagePath>
+      <Modified>2020-01-07T08:18:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\DefaultWsdlHelpGenerator.aspx</PackagePath>
+      <Modified>2020-01-07T08:18:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\etc\mono\2.0\settings.map">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\settings.map</PackagePath>
+      <Modified>2020-01-07T08:18:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\etc\mono\4.0\settings.map">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\settings.map</PackagePath>
+      <Modified>2020-01-07T08:18:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\etc\mono\4.5\settings.map">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\settings.map</PackagePath>
+      <Modified>2020-01-07T08:18:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\etc\mono\2.0\Browsers\Compat.browser">
+      <PackagePath>Data\il2cpp_data\etc\mono\2.0\Browsers\Compat.browser</PackagePath>
+      <Modified>2020-01-07T08:18:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\etc\mono\4.0\Browsers\Compat.browser">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.0\Browsers\Compat.browser</PackagePath>
+      <Modified>2020-01-07T08:18:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\etc\mono\4.5\Browsers\Compat.browser">
+      <PackagePath>Data\il2cpp_data\etc\mono\4.5\Browsers\Compat.browser</PackagePath>
+      <Modified>2020-01-07T08:18:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\Metadata\global-metadata.dat">
+      <PackagePath>Data\il2cpp_data\Metadata\global-metadata.dat</PackagePath>
+      <Modified>2020-10-16T17:47:56.589</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\Resources\I18N.CJK.dll-resources.dat">
+      <PackagePath>Data\il2cpp_data\Resources\I18N.CJK.dll-resources.dat</PackagePath>
+      <Modified>2020-10-16T17:47:16.748</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\Resources\mscorlib.dll-resources.dat">
+      <PackagePath>Data\il2cpp_data\Resources\mscorlib.dll-resources.dat</PackagePath>
+      <Modified>2020-10-16T17:47:16.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\StreamingAssets\SerializedFields\34e23c6f.json">
+      <PackagePath>Data\StreamingAssets\SerializedFields\34e23c6f.json</PackagePath>
+      <Modified>2020-10-04T07:11:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\StreamingAssets\SerializedFields\45809a9d.json">
+      <PackagePath>Data\StreamingAssets\SerializedFields\45809a9d.json</PackagePath>
+      <Modified>2020-10-16T17:46:28.807</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\StreamingAssets\SerializedFields\a6c03df6.json">
+      <PackagePath>Data\StreamingAssets\SerializedFields\a6c03df6.json</PackagePath>
+      <Modified>2020-10-04T07:11:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\StreamingAssets\SerializedFields\ae1eeacb.json">
+      <PackagePath>Data\StreamingAssets\SerializedFields\ae1eeacb.json</PackagePath>
+      <Modified>2020-10-04T07:11:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\StreamingAssets\SerializedFields\be72b5ba.json">
+      <PackagePath>Data\StreamingAssets\SerializedFields\be72b5ba.json</PackagePath>
+      <Modified>2020-10-04T07:11:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\StreamingAssets\SerializedFields\d18c1a35.json">
+      <PackagePath>Data\StreamingAssets\SerializedFields\d18c1a35.json</PackagePath>
+      <Modified>2020-10-04T07:11:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\AudioPluginMsHRTF.dll">
+      <PackagePath>AudioPluginMsHRTF.dll</PackagePath>
+      <Modified>2019-11-14T23:07:09.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\build\bin\ARM64\Release\GameAssembly.dll">
+      <PackagePath>GameAssembly.dll</PackagePath>
+      <Modified>2020-10-16T17:13:57.856</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\build\bin\ARM64\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2020-10-16T17:48:28.787</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM64\Microsoft.VCLibs.ARM64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

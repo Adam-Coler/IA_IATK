@@ -1,0 +1,1 @@
+C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\IATK_NUI.vcxproj;arm64
