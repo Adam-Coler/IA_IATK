@@ -215,7 +215,7 @@ struct IAsyncResult_t8E194308510B375B42432981AE5E7488C458D598;
 // System.Int32[]
 struct Int32U5BU5D_t2B9E4FDDDB9F0A00EC0AC631BA2DA915EB1ECF83;
 // System.Lazy`1<System.Object>
-struct Lazy_1_t92A126CCE029B74D0EEE290FE6903CF042F9BA1C;
+struct Lazy_1_t71F054A6BEAC691000784099D483C92D8C113AE7;
 // System.Lazy`1<UnityEngine.RectTransform>
 struct Lazy_1_tD2C2BE8F758DC9A6D241E6920D8A6D441B86EDF4;
 // System.Object[]
@@ -3557,11 +3557,11 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_3__ctor_mDCF191A98C4C31CEBD4FAD6055
 // !!1 System.Linq.Enumerable::Aggregate<System.Object,System.Object>(System.Collections.Generic.IEnumerable`1<!!0>,!!1,System.Func`3<!!1,!!0,!!1>)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * Enumerable_Aggregate_TisRuntimeObject_TisRuntimeObject_m02A8F6B86926DB4F23EC36B2784F1FB1BD71E152_gshared (RuntimeObject* ___source0, RuntimeObject * ___seed1, Func_3_t0875D079514B9064DE951B01B4AE82F6C7436F64 * ___func2, const RuntimeMethod* method);
 // !0 System.Lazy`1<System.Object>::get_Value()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * Lazy_1_get_Value_m4504005FE52CBECE0030A1F7128DE56DB39A039B_gshared (Lazy_1_t92A126CCE029B74D0EEE290FE6903CF042F9BA1C * __this, const RuntimeMethod* method);
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * Lazy_1_get_Value_m0F1BF0071B879F33579BD0FD0AD8AC89635B1F5F_gshared (Lazy_1_t71F054A6BEAC691000784099D483C92D8C113AE7 * __this, const RuntimeMethod* method);
 // System.Void System.Func`1<System.Object>::.ctor(System.Object,System.IntPtr)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_1__ctor_mE02699FC76D830943069F8FC19D16C3B72A98A1F_gshared (Func_1_t59BE545225A69AFD7B2056D169D0083051F6D386 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method);
 // System.Void System.Lazy`1<System.Object>::.ctor(System.Func`1<!0>)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Lazy_1__ctor_m88DC17B8635C8B9D758DA9E2FCC60EBC085F54D3_gshared (Lazy_1_t92A126CCE029B74D0EEE290FE6903CF042F9BA1C * __this, Func_1_t59BE545225A69AFD7B2056D169D0083051F6D386 * ___valueFactory0, const RuntimeMethod* method);
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Lazy_1__ctor_mFD20B0196A065A92FE66CCA3DEA51AE60F27B93D_gshared (Lazy_1_t71F054A6BEAC691000784099D483C92D8C113AE7 * __this, Func_1_t59BE545225A69AFD7B2056D169D0083051F6D386 * ___valueFactory0, const RuntimeMethod* method);
 // System.Void System.Collections.Generic.List`1<System.Object>::Add(!0)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void List_1_Add_m6930161974C7504C80F52EC379EF012387D43138_gshared (List_1_t05CC3C859AB5E6024394EF9A42E3E696628CA02D * __this, RuntimeObject * ___item0, const RuntimeMethod* method);
 // System.Boolean System.Collections.Generic.List`1<System.Object>::Remove(!0)
@@ -3802,7 +3802,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void BaseNearInteractionTouchable__ctor_m635F
 // !0 System.Lazy`1<UnityEngine.RectTransform>::get_Value()
 inline RectTransform_t285CBD8775B25174B75164F10618F8B9728E1B20 * Lazy_1_get_Value_m14285D8A1AD14C080ED2D95FACA7366ED99FE4F2 (Lazy_1_tD2C2BE8F758DC9A6D241E6920D8A6D441B86EDF4 * __this, const RuntimeMethod* method)
 {
-	return ((  RectTransform_t285CBD8775B25174B75164F10618F8B9728E1B20 * (*) (Lazy_1_tD2C2BE8F758DC9A6D241E6920D8A6D441B86EDF4 *, const RuntimeMethod*))Lazy_1_get_Value_m4504005FE52CBECE0030A1F7128DE56DB39A039B_gshared)(__this, method);
+	return ((  RectTransform_t285CBD8775B25174B75164F10618F8B9728E1B20 * (*) (Lazy_1_tD2C2BE8F758DC9A6D241E6920D8A6D441B86EDF4 *, const RuntimeMethod*))Lazy_1_get_Value_m0F1BF0071B879F33579BD0FD0AD8AC89635B1F5F_gshared)(__this, method);
 }
 // UnityEngine.Rect UnityEngine.RectTransform::get_rect()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR Rect_t35B976DE901B5423C11705E156938EA27AB402CE  RectTransform_get_rect_mE5F283FCB99A66403AC1F0607CA49C156D73A15E (RectTransform_t285CBD8775B25174B75164F10618F8B9728E1B20 * __this, const RuntimeMethod* method);
@@ -3816,7 +3816,7 @@ inline void Func_1__ctor_m9CD37EDF32B1025161B21189308A89FBCB3D31D0 (Func_1_t3AE1
 // System.Void System.Lazy`1<UnityEngine.RectTransform>::.ctor(System.Func`1<!0>)
 inline void Lazy_1__ctor_mB678E6E7BEB0C87364A66EF9597E7546BAC3632B (Lazy_1_tD2C2BE8F758DC9A6D241E6920D8A6D441B86EDF4 * __this, Func_1_t3AE1617AFFCE3777C6509180026C803D862960EC * ___valueFactory0, const RuntimeMethod* method)
 {
-	((  void (*) (Lazy_1_tD2C2BE8F758DC9A6D241E6920D8A6D441B86EDF4 *, Func_1_t3AE1617AFFCE3777C6509180026C803D862960EC *, const RuntimeMethod*))Lazy_1__ctor_m88DC17B8635C8B9D758DA9E2FCC60EBC085F54D3_gshared)(__this, ___valueFactory0, method);
+	((  void (*) (Lazy_1_tD2C2BE8F758DC9A6D241E6920D8A6D441B86EDF4 *, Func_1_t3AE1617AFFCE3777C6509180026C803D862960EC *, const RuntimeMethod*))Lazy_1__ctor_mFD20B0196A065A92FE66CCA3DEA51AE60F27B93D_gshared)(__this, ___valueFactory0, method);
 }
 // System.Boolean UnityEngine.Rect::Contains(UnityEngine.Vector3)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Rect_Contains_m5072228CE6251E7C754F227BA330F9ADA95C1495 (Rect_t35B976DE901B5423C11705E156938EA27AB402CE * __this, Vector3_tDCF05E21F632FE2BA260C06E0D10CA81513E6720  ___point0, const RuntimeMethod* method);

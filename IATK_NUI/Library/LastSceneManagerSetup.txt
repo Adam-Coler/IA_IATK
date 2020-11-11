@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/IATK_BaseScene.unity
+- path: Assets/Scenes/pipetest.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

@@ -368,7 +368,7 @@ struct Lazy_1_t0C9B4A0E460B824A303CCD3ABD886A05A24B0953;
 // System.Lazy`1<Microsoft.Windows.Graphics.Holographic.IHolographicViewConfiguration2>
 struct Lazy_1_t8CE5D7FA7E3ED30A9A6543B9FBE08B1DD9D28918;
 // System.Lazy`1<System.Object>
-struct Lazy_1_t92A126CCE029B74D0EEE290FE6903CF042F9BA1C;
+struct Lazy_1_t71F054A6BEAC691000784099D483C92D8C113AE7;
 // System.NotImplementedException
 struct NotImplementedException_t8AD6EBE5FEDB0AEBECEE0961CF73C35B372EFFA4;
 // System.Reflection.Binder
@@ -5614,9 +5614,9 @@ IL2CPP_EXTERN_C void IUnknownVftbl_t80A531FA633D70D0F13B752299780DA0B2C41E62_mar
 // System.Void System.Func`1<System.Object>::.ctor(System.Object,System.IntPtr)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Func_1__ctor_mE02699FC76D830943069F8FC19D16C3B72A98A1F_gshared (Func_1_t59BE545225A69AFD7B2056D169D0083051F6D386 * __this, RuntimeObject * ___object0, intptr_t ___method1, const RuntimeMethod* method);
 // System.Void System.Lazy`1<System.Object>::.ctor(System.Func`1<!0>)
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Lazy_1__ctor_m88DC17B8635C8B9D758DA9E2FCC60EBC085F54D3_gshared (Lazy_1_t92A126CCE029B74D0EEE290FE6903CF042F9BA1C * __this, Func_1_t59BE545225A69AFD7B2056D169D0083051F6D386 * ___valueFactory0, const RuntimeMethod* method);
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Lazy_1__ctor_mFD20B0196A065A92FE66CCA3DEA51AE60F27B93D_gshared (Lazy_1_t71F054A6BEAC691000784099D483C92D8C113AE7 * __this, Func_1_t59BE545225A69AFD7B2056D169D0083051F6D386 * ___valueFactory0, const RuntimeMethod* method);
 // !0 System.Lazy`1<System.Object>::get_Value()
-IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * Lazy_1_get_Value_m4504005FE52CBECE0030A1F7128DE56DB39A039B_gshared (Lazy_1_t92A126CCE029B74D0EEE290FE6903CF042F9BA1C * __this, const RuntimeMethod* method);
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject * Lazy_1_get_Value_m0F1BF0071B879F33579BD0FD0AD8AC89635B1F5F_gshared (Lazy_1_t71F054A6BEAC691000784099D483C92D8C113AE7 * __this, const RuntimeMethod* method);
 // WinRT.ObjectReference`1<T> WinRT.ObjectReference`1<WinRT.Interop.IInspectableVftbl>::FromNativePtr(WinRT.ModuleReference,System.IntPtr)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ObjectReference_1_t28DA373EE505C8F3F300D370F9766734030471DA * ObjectReference_1_FromNativePtr_mBB2F3D4F40BEB00012D3C585F769F9A5502A8E4F_gshared (ModuleReference_t8E5DF951623D4CDC451E0674355AD058498F0C23  ___module0, intptr_t ___thisPtr1, const RuntimeMethod* method);
 // WinRT.ObjectReference`1<T> WinRT.IObjectReference::As<Microsoft.Windows.Graphics.Holographic.IHolographicFrame/Vftbl>()
@@ -5666,14 +5666,14 @@ inline void Func_1__ctor_m61243B6239827A0C19B1635F0431C483010569B8 (Func_1_t8328
 // System.Void System.Lazy`1<Microsoft.Windows.Graphics.Holographic.IHolographicCamera6>::.ctor(System.Func`1<!0>)
 inline void Lazy_1__ctor_mAFB7A1180032167FB345FFB53C7B106888E9D056 (Lazy_1_tFDEF0C2B78203E5067F4716737F16B9118FB0956 * __this, Func_1_t83285DFEB0C073A1FC3865203DFFB7D47246C613 * ___valueFactory0, const RuntimeMethod* method)
 {
-	((  void (*) (Lazy_1_tFDEF0C2B78203E5067F4716737F16B9118FB0956 *, Func_1_t83285DFEB0C073A1FC3865203DFFB7D47246C613 *, const RuntimeMethod*))Lazy_1__ctor_m88DC17B8635C8B9D758DA9E2FCC60EBC085F54D3_gshared)(__this, ___valueFactory0, method);
+	((  void (*) (Lazy_1_tFDEF0C2B78203E5067F4716737F16B9118FB0956 *, Func_1_t83285DFEB0C073A1FC3865203DFFB7D47246C613 *, const RuntimeMethod*))Lazy_1__ctor_mFD20B0196A065A92FE66CCA3DEA51AE60F27B93D_gshared)(__this, ___valueFactory0, method);
 }
 // System.UInt32 Microsoft.Windows.Graphics.Holographic.IHolographicCamera::get_Id()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR uint32_t IHolographicCamera_get_Id_mC40456499C282C02D6955A52F2FBEB68B71D1EFD (IHolographicCamera_t0283235A83FA610352F0FA2EC7939AD2B1E13725 * __this, const RuntimeMethod* method);
 // !0 System.Lazy`1<Microsoft.Windows.Graphics.Holographic.IHolographicCamera6>::get_Value()
 inline IHolographicCamera6_tCC308BF91467AB926F20E84A2902239FD3B7162F * Lazy_1_get_Value_mB8CD4F2934A56C01DA46835F042AE84F9763ECF2 (Lazy_1_tFDEF0C2B78203E5067F4716737F16B9118FB0956 * __this, const RuntimeMethod* method)
 {
-	return ((  IHolographicCamera6_tCC308BF91467AB926F20E84A2902239FD3B7162F * (*) (Lazy_1_tFDEF0C2B78203E5067F4716737F16B9118FB0956 *, const RuntimeMethod*))Lazy_1_get_Value_m4504005FE52CBECE0030A1F7128DE56DB39A039B_gshared)(__this, method);
+	return ((  IHolographicCamera6_tCC308BF91467AB926F20E84A2902239FD3B7162F * (*) (Lazy_1_tFDEF0C2B78203E5067F4716737F16B9118FB0956 *, const RuntimeMethod*))Lazy_1_get_Value_m0F1BF0071B879F33579BD0FD0AD8AC89635B1F5F_gshared)(__this, method);
 }
 // Microsoft.Windows.Graphics.Holographic.IHolographicViewConfiguration Microsoft.Windows.Graphics.Holographic.IHolographicCamera6::get_ViewConfiguration()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR IHolographicViewConfiguration_tFF0F76A437AF06BBC01BA66E163AFD26A70FE5DD * IHolographicCamera6_get_ViewConfiguration_mB28F3B0EB068E8A3146030DC0DBEA6EEEB68C167 (IHolographicCamera6_tCC308BF91467AB926F20E84A2902239FD3B7162F * __this, const RuntimeMethod* method);
@@ -5693,12 +5693,12 @@ inline void Func_1__ctor_m95D0768BE508AF36FED6C0C17EE0A5B96B446529 (Func_1_t2320
 // System.Void System.Lazy`1<Microsoft.Windows.Graphics.Holographic.IHolographicCameraRenderingParameters4>::.ctor(System.Func`1<!0>)
 inline void Lazy_1__ctor_mE9287D418946E7CBFF21171FB6172BB854B1D6D9 (Lazy_1_t0C9B4A0E460B824A303CCD3ABD886A05A24B0953 * __this, Func_1_t232058B9320628F4E438C234B8E996107E09C632 * ___valueFactory0, const RuntimeMethod* method)
 {
-	((  void (*) (Lazy_1_t0C9B4A0E460B824A303CCD3ABD886A05A24B0953 *, Func_1_t232058B9320628F4E438C234B8E996107E09C632 *, const RuntimeMethod*))Lazy_1__ctor_m88DC17B8635C8B9D758DA9E2FCC60EBC085F54D3_gshared)(__this, ___valueFactory0, method);
+	((  void (*) (Lazy_1_t0C9B4A0E460B824A303CCD3ABD886A05A24B0953 *, Func_1_t232058B9320628F4E438C234B8E996107E09C632 *, const RuntimeMethod*))Lazy_1__ctor_mFD20B0196A065A92FE66CCA3DEA51AE60F27B93D_gshared)(__this, ___valueFactory0, method);
 }
 // !0 System.Lazy`1<Microsoft.Windows.Graphics.Holographic.IHolographicCameraRenderingParameters4>::get_Value()
 inline IHolographicCameraRenderingParameters4_tB30F6244843992B0AA3363822BDD4674C87B4CBC * Lazy_1_get_Value_m76C2F3ADF62299F04400D4D7F69670890ABC263F (Lazy_1_t0C9B4A0E460B824A303CCD3ABD886A05A24B0953 * __this, const RuntimeMethod* method)
 {
-	return ((  IHolographicCameraRenderingParameters4_tB30F6244843992B0AA3363822BDD4674C87B4CBC * (*) (Lazy_1_t0C9B4A0E460B824A303CCD3ABD886A05A24B0953 *, const RuntimeMethod*))Lazy_1_get_Value_m4504005FE52CBECE0030A1F7128DE56DB39A039B_gshared)(__this, method);
+	return ((  IHolographicCameraRenderingParameters4_tB30F6244843992B0AA3363822BDD4674C87B4CBC * (*) (Lazy_1_t0C9B4A0E460B824A303CCD3ABD886A05A24B0953 *, const RuntimeMethod*))Lazy_1_get_Value_m0F1BF0071B879F33579BD0FD0AD8AC89635B1F5F_gshared)(__this, method);
 }
 // System.Void Microsoft.Windows.Graphics.Holographic.IHolographicCameraRenderingParameters4::set_DepthReprojectionMethod(Microsoft.Windows.Graphics.Holographic.HolographicDepthReprojectionMethod)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void IHolographicCameraRenderingParameters4_set_DepthReprojectionMethod_mF20670A4DE848D2FB8C03FC84FB967F2489DF9DB (IHolographicCameraRenderingParameters4_tB30F6244843992B0AA3363822BDD4674C87B4CBC * __this, int32_t ___value0, const RuntimeMethod* method);
@@ -5738,12 +5738,12 @@ inline void Func_1__ctor_m1B102E7BECE834D438AA91B86245EF5D14E57536 (Func_1_t6868
 // System.Void System.Lazy`1<Microsoft.Windows.Graphics.Holographic.IHolographicViewConfiguration2>::.ctor(System.Func`1<!0>)
 inline void Lazy_1__ctor_m309A61D92923E96BA5FF85A680CF31BF07BEC32A (Lazy_1_t8CE5D7FA7E3ED30A9A6543B9FBE08B1DD9D28918 * __this, Func_1_t68680E827064572D98F178893AF8009AE9DD28C3 * ___valueFactory0, const RuntimeMethod* method)
 {
-	((  void (*) (Lazy_1_t8CE5D7FA7E3ED30A9A6543B9FBE08B1DD9D28918 *, Func_1_t68680E827064572D98F178893AF8009AE9DD28C3 *, const RuntimeMethod*))Lazy_1__ctor_m88DC17B8635C8B9D758DA9E2FCC60EBC085F54D3_gshared)(__this, ___valueFactory0, method);
+	((  void (*) (Lazy_1_t8CE5D7FA7E3ED30A9A6543B9FBE08B1DD9D28918 *, Func_1_t68680E827064572D98F178893AF8009AE9DD28C3 *, const RuntimeMethod*))Lazy_1__ctor_mFD20B0196A065A92FE66CCA3DEA51AE60F27B93D_gshared)(__this, ___valueFactory0, method);
 }
 // !0 System.Lazy`1<Microsoft.Windows.Graphics.Holographic.IHolographicViewConfiguration2>::get_Value()
 inline IHolographicViewConfiguration2_tBB41C07867F243BD34665E969CA0DF25656009BF * Lazy_1_get_Value_mC5457483F16721D84567FD0BA28A8B6756DC3B0E (Lazy_1_t8CE5D7FA7E3ED30A9A6543B9FBE08B1DD9D28918 * __this, const RuntimeMethod* method)
 {
-	return ((  IHolographicViewConfiguration2_tBB41C07867F243BD34665E969CA0DF25656009BF * (*) (Lazy_1_t8CE5D7FA7E3ED30A9A6543B9FBE08B1DD9D28918 *, const RuntimeMethod*))Lazy_1_get_Value_m4504005FE52CBECE0030A1F7128DE56DB39A039B_gshared)(__this, method);
+	return ((  IHolographicViewConfiguration2_tBB41C07867F243BD34665E969CA0DF25656009BF * (*) (Lazy_1_t8CE5D7FA7E3ED30A9A6543B9FBE08B1DD9D28918 *, const RuntimeMethod*))Lazy_1_get_Value_m0F1BF0071B879F33579BD0FD0AD8AC89635B1F5F_gshared)(__this, method);
 }
 // System.Collections.Generic.IReadOnlyList`1<Microsoft.Windows.Graphics.Holographic.HolographicDepthReprojectionMethod> Microsoft.Windows.Graphics.Holographic.IHolographicViewConfiguration2::get_SupportedDepthReprojectionMethods()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* IHolographicViewConfiguration2_get_SupportedDepthReprojectionMethods_mA4F6C1E813CEF6CFE0F42E5D2FF44D60BEE0FA90 (IHolographicViewConfiguration2_tBB41C07867F243BD34665E969CA0DF25656009BF * __this, const RuntimeMethod* method);

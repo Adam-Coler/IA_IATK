@@ -99,6 +99,14 @@
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Microsoft.MixedReality.Toolkit.Async_CodeGen.c">
     </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\Microsoft.MixedReality.Toolkit.Demos.Gltf_CodeGen.c">
+    </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\Microsoft.MixedReality.Toolkit.Demos.InspectorFields_CodeGen.c">
+    </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\Microsoft.MixedReality.Toolkit.Demos.UX.Interactables_CodeGen.c">
+    </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\Microsoft.MixedReality.Toolkit.Examples_CodeGen.c">
+    </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Microsoft.MixedReality.Toolkit.Gltf_CodeGen.c">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Microsoft.MixedReality.Toolkit.Providers.WindowsMixedReality.Shared_CodeGen.c">
@@ -241,6 +249,8 @@
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Assembly-CSharp1.cpp">
     </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\Assembly-CSharp2.cpp">
+    </ClCompile>
     <ClCompile Include="Source\il2cppOutput\DOTween.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\GenericMethods.cpp">
@@ -250,6 +260,8 @@
     <ClCompile Include="Source\il2cppOutput\GenericMethods10.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\GenericMethods11.cpp">
+    </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\GenericMethods12.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\GenericMethods2.cpp">
     </ClCompile>
@@ -389,6 +401,8 @@
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Generics63.cpp">
     </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\Generics64.cpp">
+    </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Generics7.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Generics8.cpp">
@@ -469,6 +483,8 @@
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Il2CppComCallableWrappers33.cpp">
     </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\Il2CppComCallableWrappers34.cpp">
+    </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Il2CppComCallableWrappers4.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Il2CppComCallableWrappers5.cpp">
@@ -516,6 +532,18 @@
     <ClCompile Include="Source\il2cppOutput\Microsoft.MixedReality.Toolkit.Async.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Microsoft.MixedReality.Toolkit.cpp">
+    </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\Microsoft.MixedReality.Toolkit.Demos.Gltf.cpp">
+    </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\Microsoft.MixedReality.Toolkit.Demos.InspectorFields.cpp">
+    </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\Microsoft.MixedReality.Toolkit.Demos.UX.Interactables.cpp">
+    </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\Microsoft.MixedReality.Toolkit.Examples.cpp">
+    </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\Microsoft.MixedReality.Toolkit.Examples1.cpp">
+    </ClCompile>
+    <ClCompile Include="Source\il2cppOutput\Microsoft.MixedReality.Toolkit.Examples2.cpp">
     </ClCompile>
     <ClCompile Include="Source\il2cppOutput\Microsoft.MixedReality.Toolkit.Gltf.cpp">
     </ClCompile>

@@ -32338,7 +32338,7 @@ IL_002f:
 		NullCheck(L_9);
 		Il2CppChar L_12 = String_get_Chars_m14308AC3B95F8C1D9F1D1055B116B37D595F1D96(L_9, ((int32_t)il2cpp_codegen_add((int32_t)L_10, (int32_t)L_11)), /*hidden argument*/NULL);
 		NullCheck(L_8);
-		Il2CppChar L_13 = VirtFuncInvoker1< Il2CppChar, Il2CppChar >::Invoke(7 /* System.Char System.Globalization.TextInfo::ToLower(System.Char) */, L_8, L_12);
+		Il2CppChar L_13 = VirtFuncInvoker1< Il2CppChar, Il2CppChar >::Invoke(8 /* System.Char System.Globalization.TextInfo::ToLower(System.Char) */, L_8, L_12);
 		String_t* L_14 = __this->get__pattern_3();
 		int32_t L_15 = V_1;
 		NullCheck(L_14);

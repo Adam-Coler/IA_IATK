@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\build\bin\ARM64\Release\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-10-16T17:48:29.011</Modified>
+      <Modified>2020-10-23T18:10:53.744</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\build\bin\ARM64\Release\IATK_NUI.exe">
       <PackagePath>IATK_NUI.exe</PackagePath>
-      <Modified>2020-10-16T17:48:28.356</Modified>
+      <Modified>2020-10-23T18:10:52.681</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\Unity\Hub\Editor\2019.2.18f1\Editor\Data\PlaybackEngines\MetroSupport\Players\UAP\il2cpp\ARM64\Release\UnityPlayer.winmd">
       <PackagePath>UnityPlayer.winmd</PackagePath>
@@ -90,7 +90,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
-      <Modified>2020-10-16T17:46:55.198</Modified>
+      <Modified>2020-10-23T18:07:47.302</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\etc\mono\2.0\machine.config">
       <PackagePath>Data\il2cpp_data\etc\mono\2.0\machine.config</PackagePath>
@@ -118,7 +118,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\StoreManifest.xml">
       <PackagePath>StoreManifest.xml</PackagePath>
-      <Modified>2020-10-16T17:46:56.380</Modified>
+      <Modified>2020-10-23T18:07:48.170</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\etc\mono\mconfig\config.xml">
       <PackagePath>Data\il2cpp_data\etc\mono\mconfig\config.xml</PackagePath>
@@ -126,11 +126,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
-      <Modified>2020-10-16T17:46:51.843</Modified>
+      <Modified>2020-10-23T18:07:44.330</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\level0">
       <PackagePath>Data\level0</PackagePath>
-      <Modified>2020-10-16T17:46:49.512</Modified>
+      <Modified>2020-10-23T18:07:42.001</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\etc\mono\config">
       <PackagePath>Data\il2cpp_data\etc\mono\config</PackagePath>
@@ -142,31 +142,31 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
-      <Modified>2020-10-16T17:46:55.192</Modified>
+      <Modified>2020-10-23T18:07:47.298</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
-      <Modified>2020-10-16T17:46:51.982</Modified>
+      <Modified>2020-10-23T18:07:44.462</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\resources.assets">
       <PackagePath>Data\resources.assets</PackagePath>
-      <Modified>2020-10-16T17:46:52.372</Modified>
+      <Modified>2020-10-23T18:07:44.784</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
-      <Modified>2020-10-16T17:46:54.438</Modified>
+      <Modified>2020-10-23T18:07:46.134</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
-      <Modified>2020-10-16T17:47:58.475</Modified>
+      <Modified>2020-10-23T18:08:50.846</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\resources.assets.resS">
       <PackagePath>Data\resources.assets.resS</PackagePath>
-      <Modified>2020-10-16T17:46:52.369</Modified>
+      <Modified>2020-10-23T18:07:44.780</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
-      <Modified>2020-10-16T17:46:54.429</Modified>
+      <Modified>2020-10-23T18:07:46.127</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\etc\mono\browscap.ini">
       <PackagePath>Data\il2cpp_data\etc\mono\browscap.ini</PackagePath>
@@ -210,15 +210,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\Metadata\global-metadata.dat">
       <PackagePath>Data\il2cpp_data\Metadata\global-metadata.dat</PackagePath>
-      <Modified>2020-10-16T17:47:56.589</Modified>
+      <Modified>2020-10-23T18:08:49.005</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\Resources\I18N.CJK.dll-resources.dat">
       <PackagePath>Data\il2cpp_data\Resources\I18N.CJK.dll-resources.dat</PackagePath>
-      <Modified>2020-10-16T17:47:16.748</Modified>
+      <Modified>2020-10-23T18:08:07.369</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\il2cpp_data\Resources\mscorlib.dll-resources.dat">
       <PackagePath>Data\il2cpp_data\Resources\mscorlib.dll-resources.dat</PackagePath>
-      <Modified>2020-10-16T17:47:16.747</Modified>
+      <Modified>2020-10-23T18:08:07.368</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\StreamingAssets\SerializedFields\34e23c6f.json">
       <PackagePath>Data\StreamingAssets\SerializedFields\34e23c6f.json</PackagePath>
@@ -226,7 +226,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\StreamingAssets\SerializedFields\45809a9d.json">
       <PackagePath>Data\StreamingAssets\SerializedFields\45809a9d.json</PackagePath>
-      <Modified>2020-10-16T17:46:28.807</Modified>
+      <Modified>2020-10-23T18:04:43.948</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\IATK_NUI\Data\StreamingAssets\SerializedFields\a6c03df6.json">
       <PackagePath>Data\StreamingAssets\SerializedFields\a6c03df6.json</PackagePath>
@@ -250,11 +250,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\build\bin\ARM64\Release\GameAssembly.dll">
       <PackagePath>GameAssembly.dll</PackagePath>
-      <Modified>2020-10-16T17:13:57.856</Modified>
+      <Modified>2020-10-23T18:10:49.141</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\build\bin\ARM64\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-10-16T17:48:28.787</Modified>
+      <Modified>2020-10-23T18:10:53.509</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

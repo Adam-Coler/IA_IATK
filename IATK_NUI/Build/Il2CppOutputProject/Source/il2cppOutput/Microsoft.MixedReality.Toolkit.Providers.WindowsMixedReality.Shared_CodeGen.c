@@ -174,7 +174,7 @@ static const int32_t s_InvokerIndices[47] =
 	141,
 	23,
 	3,
-	1118,
+	1124,
 	23,
 	23,
 	14,
@@ -208,8 +208,8 @@ static const int32_t s_InvokerIndices[47] =
 	129,
 	4,
 	4,
-	1905,
-	1907,
+	1821,
+	1823,
 	3,
 };
 extern const Il2CppCodeGenModule g_Microsoft_MixedReality_Toolkit_Providers_WindowsMixedReality_SharedCodeGenModule;

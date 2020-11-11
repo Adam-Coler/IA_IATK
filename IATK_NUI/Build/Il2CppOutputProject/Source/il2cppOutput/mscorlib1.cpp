@@ -13997,7 +13997,7 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR ByteU5BU5D_tD06FDBE8142446525DF1C40351D523A22
 		ObjRef_tA220448511DCA671EFC23F87F1C7FCA6ACC749D2 * L_3 = RemotingServices_Marshal_m4011FB4633F63D96F126786B57DC8921B2D7035B(L_0, (String_t*)NULL, L_2, /*hidden argument*/NULL);
 		MemoryStream_t495F44B85E6B4DDE2BB7E17DE963256A74E2298C * L_4 = CADSerializer_SerializeObject_m6B7C23B79F0AFE830641EA7F810201C149F06047(L_3, /*hidden argument*/NULL);
 		NullCheck(L_4);
-		ByteU5BU5D_tD06FDBE8142446525DF1C40351D523A228373821* L_5 = VirtFuncInvoker0< ByteU5BU5D_tD06FDBE8142446525DF1C40351D523A228373821* >::Invoke(27 /* System.Byte[] System.IO.MemoryStream::GetBuffer() */, L_4);
+		ByteU5BU5D_tD06FDBE8142446525DF1C40351D523A228373821* L_5 = VirtFuncInvoker0< ByteU5BU5D_tD06FDBE8142446525DF1C40351D523A228373821* >::Invoke(28 /* System.Byte[] System.IO.MemoryStream::GetBuffer() */, L_4);
 		return L_5;
 	}
 }
@@ -14059,7 +14059,7 @@ IL_0019:
 		RuntimeObject* L_14 = V_1;
 		MemoryStream_t495F44B85E6B4DDE2BB7E17DE963256A74E2298C * L_15 = CADSerializer_SerializeMessage_mE4C4D59A3F37D639CBAF37D01AB0654B0FCC3C28(L_14, /*hidden argument*/NULL);
 		NullCheck(L_15);
-		ByteU5BU5D_tD06FDBE8142446525DF1C40351D523A228373821* L_16 = VirtFuncInvoker0< ByteU5BU5D_tD06FDBE8142446525DF1C40351D523A228373821* >::Invoke(27 /* System.Byte[] System.IO.MemoryStream::GetBuffer() */, L_15);
+		ByteU5BU5D_tD06FDBE8142446525DF1C40351D523A228373821* L_16 = VirtFuncInvoker0< ByteU5BU5D_tD06FDBE8142446525DF1C40351D523A228373821* >::Invoke(28 /* System.Byte[] System.IO.MemoryStream::GetBuffer() */, L_15);
 		*((RuntimeObject **)L_13) = (RuntimeObject *)L_16;
 		Il2CppCodeGenWriteBarrier((void**)(RuntimeObject **)L_13, (void*)(RuntimeObject *)L_16);
 		return;
@@ -28442,7 +28442,7 @@ IL_000e:
 		TextInfo_t5F1E697CB6A7E5EC80F0DC3A968B9B4A70C291D8 * L_3 = VirtFuncInvoker0< TextInfo_t5F1E697CB6A7E5EC80F0DC3A968B9B4A70C291D8 * >::Invoke(10 /* System.Globalization.TextInfo System.Globalization.CultureInfo::get_TextInfo() */, L_2);
 		Il2CppChar L_4 = ___c0;
 		NullCheck(L_3);
-		Il2CppChar L_5 = VirtFuncInvoker1< Il2CppChar, Il2CppChar >::Invoke(9 /* System.Char System.Globalization.TextInfo::ToUpper(System.Char) */, L_3, L_4);
+		Il2CppChar L_5 = VirtFuncInvoker1< Il2CppChar, Il2CppChar >::Invoke(10 /* System.Char System.Globalization.TextInfo::ToUpper(System.Char) */, L_3, L_4);
 		return L_5;
 	}
 }
@@ -28511,7 +28511,7 @@ IL_000e:
 		TextInfo_t5F1E697CB6A7E5EC80F0DC3A968B9B4A70C291D8 * L_3 = VirtFuncInvoker0< TextInfo_t5F1E697CB6A7E5EC80F0DC3A968B9B4A70C291D8 * >::Invoke(10 /* System.Globalization.TextInfo System.Globalization.CultureInfo::get_TextInfo() */, L_2);
 		Il2CppChar L_4 = ___c0;
 		NullCheck(L_3);
-		Il2CppChar L_5 = VirtFuncInvoker1< Il2CppChar, Il2CppChar >::Invoke(7 /* System.Char System.Globalization.TextInfo::ToLower(System.Char) */, L_3, L_4);
+		Il2CppChar L_5 = VirtFuncInvoker1< Il2CppChar, Il2CppChar >::Invoke(8 /* System.Char System.Globalization.TextInfo::ToLower(System.Char) */, L_3, L_4);
 		return L_5;
 	}
 }

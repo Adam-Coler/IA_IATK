@@ -52,6 +52,7 @@
 		<type fullname="Axis" preserve="nothing"/>
 		<type fullname="AxisRangeWidget" preserve="nothing"/>
 		<type fullname="BrushingAndLinking" preserve="nothing"/>
+		<type fullname="DrawLineMeshFromRenderer" preserve="nothing"/>
 		<type fullname="IATK.BigMesh" preserve="nothing"/>
 		<type fullname="IATK.CSVDataSource" preserve="nothing"/>
 		<type fullname="IATK.Key" preserve="nothing"/>

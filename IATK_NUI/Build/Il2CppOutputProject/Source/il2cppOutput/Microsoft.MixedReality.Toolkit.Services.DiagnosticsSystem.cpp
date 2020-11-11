@@ -1805,10 +1805,10 @@ struct AppCapture_tB6434A902143A07D9DC259154565EC03C02D309F_StaticFields
 public:
 	// Cached pointer to IActivationFactory
 	Il2CppIActivationFactory* activationFactory;
-	// Cached pointer to Windows.Media.Capture.IAppCaptureStatics2
-	IAppCaptureStatics2_t8517F380DC07A2BEE6C603D572A3BEE84EA374AB* ____iappCaptureStatics2_t8517F380DC07A2BEE6C603D572A3BEE84EA374AB;
 	// Cached pointer to Windows.Media.Capture.IAppCaptureStatics
 	IAppCaptureStatics_t3AC5645D296D2CD4981ABAA5095B1310BA40D9F5* ____iappCaptureStatics_t3AC5645D296D2CD4981ABAA5095B1310BA40D9F5;
+	// Cached pointer to Windows.Media.Capture.IAppCaptureStatics2
+	IAppCaptureStatics2_t8517F380DC07A2BEE6C603D572A3BEE84EA374AB* ____iappCaptureStatics2_t8517F380DC07A2BEE6C603D572A3BEE84EA374AB;
 
 public:
 	inline Il2CppIActivationFactory* get_activationFactory()
@@ -1828,23 +1828,6 @@ public:
 		return returnValue;
 	}
 
-	inline IAppCaptureStatics2_t8517F380DC07A2BEE6C603D572A3BEE84EA374AB* get_____iappCaptureStatics2_t8517F380DC07A2BEE6C603D572A3BEE84EA374AB()
-	{
-		IAppCaptureStatics2_t8517F380DC07A2BEE6C603D572A3BEE84EA374AB* returnValue = ____iappCaptureStatics2_t8517F380DC07A2BEE6C603D572A3BEE84EA374AB;
-		if (returnValue == NULL)
-		{
-			const il2cpp_hresult_t hr = get_activationFactory()->QueryInterface(IAppCaptureStatics2_t8517F380DC07A2BEE6C603D572A3BEE84EA374AB::IID, reinterpret_cast<void**>(&returnValue));
-			il2cpp_codegen_com_raise_exception_if_failed(hr, false);
-
-			if (il2cpp_codegen_atomic_compare_exchange_pointer<IAppCaptureStatics2_t8517F380DC07A2BEE6C603D572A3BEE84EA374AB>((&____iappCaptureStatics2_t8517F380DC07A2BEE6C603D572A3BEE84EA374AB), returnValue, NULL) != NULL)
-			{
-				returnValue->Release();
-				returnValue = ____iappCaptureStatics2_t8517F380DC07A2BEE6C603D572A3BEE84EA374AB;
-			}
-		}
-		return returnValue;
-	}
-
 	inline IAppCaptureStatics_t3AC5645D296D2CD4981ABAA5095B1310BA40D9F5* get_____iappCaptureStatics_t3AC5645D296D2CD4981ABAA5095B1310BA40D9F5()
 	{
 		IAppCaptureStatics_t3AC5645D296D2CD4981ABAA5095B1310BA40D9F5* returnValue = ____iappCaptureStatics_t3AC5645D296D2CD4981ABAA5095B1310BA40D9F5;
@@ -1857,6 +1840,23 @@ public:
 			{
 				returnValue->Release();
 				returnValue = ____iappCaptureStatics_t3AC5645D296D2CD4981ABAA5095B1310BA40D9F5;
+			}
+		}
+		return returnValue;
+	}
+
+	inline IAppCaptureStatics2_t8517F380DC07A2BEE6C603D572A3BEE84EA374AB* get_____iappCaptureStatics2_t8517F380DC07A2BEE6C603D572A3BEE84EA374AB()
+	{
+		IAppCaptureStatics2_t8517F380DC07A2BEE6C603D572A3BEE84EA374AB* returnValue = ____iappCaptureStatics2_t8517F380DC07A2BEE6C603D572A3BEE84EA374AB;
+		if (returnValue == NULL)
+		{
+			const il2cpp_hresult_t hr = get_activationFactory()->QueryInterface(IAppCaptureStatics2_t8517F380DC07A2BEE6C603D572A3BEE84EA374AB::IID, reinterpret_cast<void**>(&returnValue));
+			il2cpp_codegen_com_raise_exception_if_failed(hr, false);
+
+			if (il2cpp_codegen_atomic_compare_exchange_pointer<IAppCaptureStatics2_t8517F380DC07A2BEE6C603D572A3BEE84EA374AB>((&____iappCaptureStatics2_t8517F380DC07A2BEE6C603D572A3BEE84EA374AB), returnValue, NULL) != NULL)
+			{
+				returnValue->Release();
+				returnValue = ____iappCaptureStatics2_t8517F380DC07A2BEE6C603D572A3BEE84EA374AB;
 			}
 		}
 		return returnValue;

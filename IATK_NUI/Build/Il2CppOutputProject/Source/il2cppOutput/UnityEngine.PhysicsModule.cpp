@@ -4027,6 +4027,44 @@ IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody_set_angularVelocity_m1839DCBC8
 		return;
 	}
 }
+// System.Single UnityEngine.Rigidbody::get_drag()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR float Rigidbody_get_drag_m2B304BB4C4A1A0E349C8B57C9085C0BC66DDE28E (Rigidbody_tE0A58EE5A1F7DC908EFFB4F0D795AC9552A750A5 * __this, const RuntimeMethod* method)
+{
+	typedef float (*Rigidbody_get_drag_m2B304BB4C4A1A0E349C8B57C9085C0BC66DDE28E_ftn) (Rigidbody_tE0A58EE5A1F7DC908EFFB4F0D795AC9552A750A5 *);
+	static Rigidbody_get_drag_m2B304BB4C4A1A0E349C8B57C9085C0BC66DDE28E_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (Rigidbody_get_drag_m2B304BB4C4A1A0E349C8B57C9085C0BC66DDE28E_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Rigidbody::get_drag()");
+	float retVal = _il2cpp_icall_func(__this);
+	return retVal;
+}
+// System.Void UnityEngine.Rigidbody::set_drag(System.Single)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody_set_drag_mCE564F278586FB0693B2BBEC4FB72E1F8E1E97EE (Rigidbody_tE0A58EE5A1F7DC908EFFB4F0D795AC9552A750A5 * __this, float ___value0, const RuntimeMethod* method)
+{
+	typedef void (*Rigidbody_set_drag_mCE564F278586FB0693B2BBEC4FB72E1F8E1E97EE_ftn) (Rigidbody_tE0A58EE5A1F7DC908EFFB4F0D795AC9552A750A5 *, float);
+	static Rigidbody_set_drag_mCE564F278586FB0693B2BBEC4FB72E1F8E1E97EE_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (Rigidbody_set_drag_mCE564F278586FB0693B2BBEC4FB72E1F8E1E97EE_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Rigidbody::set_drag(System.Single)");
+	_il2cpp_icall_func(__this, ___value0);
+}
+// System.Boolean UnityEngine.Rigidbody::get_useGravity()
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Rigidbody_get_useGravity_m802E0C0B4F2C2B521D5369EA027325157A53FCAA (Rigidbody_tE0A58EE5A1F7DC908EFFB4F0D795AC9552A750A5 * __this, const RuntimeMethod* method)
+{
+	typedef bool (*Rigidbody_get_useGravity_m802E0C0B4F2C2B521D5369EA027325157A53FCAA_ftn) (Rigidbody_tE0A58EE5A1F7DC908EFFB4F0D795AC9552A750A5 *);
+	static Rigidbody_get_useGravity_m802E0C0B4F2C2B521D5369EA027325157A53FCAA_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (Rigidbody_get_useGravity_m802E0C0B4F2C2B521D5369EA027325157A53FCAA_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Rigidbody::get_useGravity()");
+	bool retVal = _il2cpp_icall_func(__this);
+	return retVal;
+}
+// System.Void UnityEngine.Rigidbody::set_useGravity(System.Boolean)
+IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR void Rigidbody_set_useGravity_mB0D957A9D8A9819E18D2E81F465C5C0B60CBC6DA (Rigidbody_tE0A58EE5A1F7DC908EFFB4F0D795AC9552A750A5 * __this, bool ___value0, const RuntimeMethod* method)
+{
+	typedef void (*Rigidbody_set_useGravity_mB0D957A9D8A9819E18D2E81F465C5C0B60CBC6DA_ftn) (Rigidbody_tE0A58EE5A1F7DC908EFFB4F0D795AC9552A750A5 *, bool);
+	static Rigidbody_set_useGravity_mB0D957A9D8A9819E18D2E81F465C5C0B60CBC6DA_ftn _il2cpp_icall_func;
+	if (!_il2cpp_icall_func)
+	_il2cpp_icall_func = (Rigidbody_set_useGravity_mB0D957A9D8A9819E18D2E81F465C5C0B60CBC6DA_ftn)il2cpp_codegen_resolve_icall ("UnityEngine.Rigidbody::set_useGravity(System.Boolean)");
+	_il2cpp_icall_func(__this, ___value0);
+}
 // System.Boolean UnityEngine.Rigidbody::get_isKinematic()
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR bool Rigidbody_get_isKinematic_mCF624F7C1C78267224EFBEAF9B4FD72CDE56CEB2 (Rigidbody_tE0A58EE5A1F7DC908EFFB4F0D795AC9552A750A5 * __this, const RuntimeMethod* method)
 {

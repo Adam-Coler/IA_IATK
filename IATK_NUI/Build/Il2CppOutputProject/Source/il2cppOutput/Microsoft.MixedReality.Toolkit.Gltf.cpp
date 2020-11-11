@@ -366,7 +366,7 @@ struct Task_1_tF3C52637D7C212377E29F98D2AD11BBD43732A2B;
 // System.Threading.Tasks.Task`1<Windows.Storage.StorageFile>
 struct Task_1_tA909F28EC23F53693E7FBF9A12A54919C3A571C3;
 // System.Threading.Tasks.Task`1<Windows.Storage.Streams.IBuffer>
-struct Task_1_t8CFC7F3C6953F45C86D3D64B9325E39E03254538;
+struct Task_1_t84A3E8ADA0C56D0776B0FCEBCEA98E253DB4385C;
 // System.Void
 struct Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017;
 // UnityEngine.BoneWeight[]
@@ -424,7 +424,7 @@ struct StorageFile_tDD5C98CCA54A0713E03C7864C9F1C6B67C47B24A;
 // Windows.Storage.Streams.DataReader
 struct DataReader_t92CE269217524DDA728FF4095997CC6D57EC7E4F;
 // Windows.Storage.Streams.IBuffer
-struct IBuffer_tC6501053A872943925EFB73C98281B002EB29FC1;
+struct IBuffer_t13BCDB1D6DE32F79AB9F9E149514026CA6B4AAEF;
 // Windows.Storage.Streams.IDataReaderFactory
 struct IDataReaderFactory_tB30EDD1D169150BD7C2312B7BB5B56E980B7D573;
 // Windows.Storage.Streams.IDataReaderStatics
@@ -455,7 +455,7 @@ IL2CPP_EXTERN_C RuntimeClass* GltfComponentType_t3FE740527521E276B196082FA31C9B5
 IL2CPP_EXTERN_C RuntimeClass* GltfConversions_tF5FC949259BC2155EDAAD34F58C55C12A085F024_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* GltfMeshPrimitiveAttributes_t347FE3778F2B0681FD1F0D01C209FF3AA12907AA_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* GltfUtility_t72B1E7EFDBB1955FFCB53B27AEDEBF66F1381B77_il2cpp_TypeInfo_var;
-IL2CPP_EXTERN_C RuntimeClass* IBuffer_tC6501053A872943925EFB73C98281B002EB29FC1_il2cpp_TypeInfo_var;
+IL2CPP_EXTERN_C RuntimeClass* IBuffer_t13BCDB1D6DE32F79AB9F9E149514026CA6B4AAEF_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* IDisposable_t7218B22548186B208D65EA5B7870503810A2D15A_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* IEnumerator_t8789118187258CC88B77AFAC6315B5AF87D3E18A_il2cpp_TypeInfo_var;
 IL2CPP_EXTERN_C RuntimeClass* Int32U5BU5D_t2B9E4FDDDB9F0A00EC0AC631BA2DA915EB1ECF83_il2cpp_TypeInfo_var;
@@ -678,7 +678,7 @@ IL2CPP_EXTERN_C const RuntimeMethod* TaskAwaiter_1_get_IsCompleted_mED2C7B90C1D6
 IL2CPP_EXTERN_C const RuntimeMethod* Task_1_GetAwaiter_m90E2F1385A9B5545BC25491244E0CEB39C7633AB_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Task_1_GetAwaiter_m940F34D43D1443597A5FA366136523142D10BFBB_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* Task_1_GetAwaiter_mA1BE50D64F2731E0E104C9720B0D62B3FD29C007_RuntimeMethod_var;
-IL2CPP_EXTERN_C const RuntimeMethod* WindowsRuntimeSystemExtensions_GetAwaiter_TisIBuffer_tC6501053A872943925EFB73C98281B002EB29FC1_mEF3F1461DFEB5F63D20F3A29277F063458DD1373_RuntimeMethod_var;
+IL2CPP_EXTERN_C const RuntimeMethod* WindowsRuntimeSystemExtensions_GetAwaiter_TisIBuffer_t13BCDB1D6DE32F79AB9F9E149514026CA6B4AAEF_mEF3F1461DFEB5F63D20F3A29277F063458DD1373_RuntimeMethod_var;
 IL2CPP_EXTERN_C const RuntimeMethod* WindowsRuntimeSystemExtensions_GetAwaiter_TisStorageFile_tDD5C98CCA54A0713E03C7864C9F1C6B67C47B24A_m0BAD53579F44DCAA6F855280408C03B865FBA574_RuntimeMethod_var;
 IL2CPP_EXTERN_C const uint32_t ConstructGltf_ConstructAsync_m72EEC921DB95ACBD007E3882E5C46BA9B5D1ED92_MetadataUsageId;
 IL2CPP_EXTERN_C const uint32_t ConstructGltf_ConstructBufferView_m9CC4CB4D60AE44978C4D739635DABABD902E5800_MetadataUsageId;
@@ -769,9 +769,9 @@ struct Exception_t_marshaled_pinvoke;
 struct IAsyncOperationCompletedHandler_1_t37751734B3144FAB1C5C4BB800546C6835E77998_ComCallableWrapper;
 struct IAsyncOperationCompletedHandler_1_tF281EB75CE881AF0EEA658A9C2F4667AF813E09A_ComCallableWrapper;
 struct IAsyncOperation_1_t61C1B9D46A10A27AE3254EA8750586B540A72BDB;
-struct IBuffer_tC6501053A872943925EFB73C98281B002EB29FC1;
+struct IBuffer_t13BCDB1D6DE32F79AB9F9E149514026CA6B4AAEF;
 struct IDataReader_t10625A5EC84CCD2085A1221EA09E9E4E2E0619CF;
-struct IInputStream_tEA863CC75470CAFEC0D3461A172AC981FCAA93A4;
+struct IInputStream_tE16D3C1553F5E6BAC4E7E8D7DE411ADD049B1B13;
 struct IStorageFile_t5B29416BEE61FEADEE5D341EB5C158A7F319E5D8;
 
 struct GltfAccessorU5BU5D_tC976218DAEEB7064FC5027342A468B3E5DE13139;
@@ -834,7 +834,7 @@ struct NOVTABLE IAsyncOperation_1_t1E1A444A58EA005C4D476A7C27773DDBD9CF220E : Il
 	static const Il2CppGuid IID;
 	virtual il2cpp_hresult_t STDCALL IAsyncOperation_1_put_Completed_m2FBCEC39ABA9E8D3AE6726C708CA2B665E77AADF(IAsyncOperationCompletedHandler_1_tF281EB75CE881AF0EEA658A9C2F4667AF813E09A_ComCallableWrapper* ___handler0) = 0;
 	virtual il2cpp_hresult_t STDCALL IAsyncOperation_1_get_Completed_mA9A669E632303A56F2D05010FA04B5F6BCBBBCDB(IAsyncOperationCompletedHandler_1_tF281EB75CE881AF0EEA658A9C2F4667AF813E09A_ComCallableWrapper** comReturnValue) = 0;
-	virtual il2cpp_hresult_t STDCALL IAsyncOperation_1_GetResults_m4A56709852D9E03E470A871C55F43DEDEAC00835(IBuffer_tC6501053A872943925EFB73C98281B002EB29FC1** comReturnValue) = 0;
+	virtual il2cpp_hresult_t STDCALL IAsyncOperation_1_GetResults_m4A56709852D9E03E470A871C55F43DEDEAC00835(IBuffer_t13BCDB1D6DE32F79AB9F9E149514026CA6B4AAEF** comReturnValue) = 0;
 };
 // Windows.Storage.IStorageFile
 struct NOVTABLE IStorageFile_t5B29416BEE61FEADEE5D341EB5C158A7F319E5D8 : Il2CppIInspectable
@@ -871,24 +871,24 @@ struct NOVTABLE IStorageFileStatics2_t82283CB376A445A46BACA0405275C5A2467FB3B4 :
 	virtual il2cpp_hresult_t STDCALL IStorageFileStatics2_U24__Stripped0_GetFileFromPathForUserAsync_m22BA08A48B5CBB33355EA6B1EC8E7060F982DD8E() = 0;
 };
 // Windows.Storage.Streams.IBuffer
-struct NOVTABLE IBuffer_tC6501053A872943925EFB73C98281B002EB29FC1 : Il2CppIInspectable
+struct NOVTABLE IBuffer_t13BCDB1D6DE32F79AB9F9E149514026CA6B4AAEF : Il2CppIInspectable
 {
 	static const Il2CppGuid IID;
-	virtual il2cpp_hresult_t STDCALL IBuffer_U24__Stripped0_get_Capacity_m9E356CB8046EE64A0A352BF3FECCFE41A212F473() = 0;
+	virtual il2cpp_hresult_t STDCALL IBuffer_get_Capacity_m5745CFEF40ED7190B05A09CE37B07650634038C9(uint32_t* comReturnValue) = 0;
 	virtual il2cpp_hresult_t STDCALL IBuffer_get_Length_mDADF6292B118D0FD40831F9C33D7EFE7AEDB889B(uint32_t* comReturnValue) = 0;
-	virtual il2cpp_hresult_t STDCALL IBuffer_U24__Stripped1_put_Length_m0D261805C9FF7FE70BE80EB91F86CB3D3705951D() = 0;
+	virtual il2cpp_hresult_t STDCALL IBuffer_put_Length_m60458A1E0C478452AFD6A20A5B7090AEA469A8B0(uint32_t ___value0) = 0;
 };
 // Windows.Storage.Streams.IDataReaderFactory
 struct NOVTABLE IDataReaderFactory_tB30EDD1D169150BD7C2312B7BB5B56E980B7D573 : Il2CppIInspectable
 {
 	static const Il2CppGuid IID;
-	virtual il2cpp_hresult_t STDCALL IDataReaderFactory_CreateDataReader_mBC8189CDCD92484B50AE4165F47CCB770341AFF9(IInputStream_tEA863CC75470CAFEC0D3461A172AC981FCAA93A4* ___inputStream0, IDataReader_t10625A5EC84CCD2085A1221EA09E9E4E2E0619CF** comReturnValue) = 0;
+	virtual il2cpp_hresult_t STDCALL IDataReaderFactory_CreateDataReader_mBC8189CDCD92484B50AE4165F47CCB770341AFF9(IInputStream_tE16D3C1553F5E6BAC4E7E8D7DE411ADD049B1B13* ___inputStream0, IDataReader_t10625A5EC84CCD2085A1221EA09E9E4E2E0619CF** comReturnValue) = 0;
 };
 // Windows.Storage.Streams.IDataReaderStatics
 struct NOVTABLE IDataReaderStatics_t5B69469B2DD36D8C09F211E49FA790E32AAAAB91 : Il2CppIInspectable
 {
 	static const Il2CppGuid IID;
-	virtual il2cpp_hresult_t STDCALL IDataReaderStatics_FromBuffer_mEEE3B81135FA916D68B036A85F8675DC15B8EFA1(IBuffer_tC6501053A872943925EFB73C98281B002EB29FC1* ___buffer0, IDataReader_t10625A5EC84CCD2085A1221EA09E9E4E2E0619CF** comReturnValue) = 0;
+	virtual il2cpp_hresult_t STDCALL IDataReaderStatics_FromBuffer_mEEE3B81135FA916D68B036A85F8675DC15B8EFA1(IBuffer_t13BCDB1D6DE32F79AB9F9E149514026CA6B4AAEF* ___buffer0, IDataReader_t10625A5EC84CCD2085A1221EA09E9E4E2E0619CF** comReturnValue) = 0;
 };
 
 // Microsoft.MixedReality.Toolkit.Utilities.AwaiterExtensions_SimpleCoroutineAwaiter
@@ -3700,13 +3700,13 @@ struct  TaskAwaiter_1_t7DA40DAC5737C94A250AA69DCE863F90B87F20A0
 {
 public:
 	// System.Threading.Tasks.Task`1<TResult> System.Runtime.CompilerServices.TaskAwaiter`1::m_task
-	Task_1_t8CFC7F3C6953F45C86D3D64B9325E39E03254538 * ___m_task_0;
+	Task_1_t84A3E8ADA0C56D0776B0FCEBCEA98E253DB4385C * ___m_task_0;
 
 public:
 	inline static int32_t get_offset_of_m_task_0() { return static_cast<int32_t>(offsetof(TaskAwaiter_1_t7DA40DAC5737C94A250AA69DCE863F90B87F20A0, ___m_task_0)); }
-	inline Task_1_t8CFC7F3C6953F45C86D3D64B9325E39E03254538 * get_m_task_0() const { return ___m_task_0; }
-	inline Task_1_t8CFC7F3C6953F45C86D3D64B9325E39E03254538 ** get_address_of_m_task_0() { return &___m_task_0; }
-	inline void set_m_task_0(Task_1_t8CFC7F3C6953F45C86D3D64B9325E39E03254538 * value)
+	inline Task_1_t84A3E8ADA0C56D0776B0FCEBCEA98E253DB4385C * get_m_task_0() const { return ___m_task_0; }
+	inline Task_1_t84A3E8ADA0C56D0776B0FCEBCEA98E253DB4385C ** get_address_of_m_task_0() { return &___m_task_0; }
+	inline void set_m_task_0(Task_1_t84A3E8ADA0C56D0776B0FCEBCEA98E253DB4385C * value)
 	{
 		___m_task_0 = value;
 		Il2CppCodeGenWriteBarrier((void**)(&___m_task_0), (void*)value);
@@ -11188,7 +11188,7 @@ inline StorageFile_tDD5C98CCA54A0713E03C7864C9F1C6B67C47B24A * TaskAwaiter_1_Get
 // Windows.Foundation.IAsyncOperation`1<Windows.Storage.Streams.IBuffer> Windows.Storage.FileIO::ReadBufferAsync(Windows.Storage.IStorageFile)
 IL2CPP_EXTERN_C IL2CPP_METHOD_ATTR RuntimeObject* FileIO_ReadBufferAsync_m041C1DDA1B8D4067F0E85244BD73DAAEA3BA6085 (RuntimeObject* ___file0, const RuntimeMethod* method);
 // System.Runtime.CompilerServices.TaskAwaiter`1<!!0> System.WindowsRuntimeSystemExtensions::GetAwaiter<Windows.Storage.Streams.IBuffer>(Windows.Foundation.IAsyncOperation`1<!!0>)
-inline TaskAwaiter_1_t7DA40DAC5737C94A250AA69DCE863F90B87F20A0  WindowsRuntimeSystemExtensions_GetAwaiter_TisIBuffer_tC6501053A872943925EFB73C98281B002EB29FC1_mEF3F1461DFEB5F63D20F3A29277F063458DD1373 (RuntimeObject* ___source0, const RuntimeMethod* method)
+inline TaskAwaiter_1_t7DA40DAC5737C94A250AA69DCE863F90B87F20A0  WindowsRuntimeSystemExtensions_GetAwaiter_TisIBuffer_t13BCDB1D6DE32F79AB9F9E149514026CA6B4AAEF_mEF3F1461DFEB5F63D20F3A29277F063458DD1373 (RuntimeObject* ___source0, const RuntimeMethod* method)
 {
 	return ((  TaskAwaiter_1_t7DA40DAC5737C94A250AA69DCE863F90B87F20A0  (*) (RuntimeObject*, const RuntimeMethod*))WindowsRuntimeSystemExtensions_GetAwaiter_TisRuntimeObject_mD084990E56A6524DAA9B2F4DEA4F5DABC6AFFDBD_gshared)(___source0, method);
 }
@@ -17708,7 +17708,7 @@ IL_01a6:
 				// var buffer = await FileIO.ReadBufferAsync(storageFile);
 				StorageFile_tDD5C98CCA54A0713E03C7864C9F1C6B67C47B24A * L_52 = V_3;
 				RuntimeObject* L_53 = FileIO_ReadBufferAsync_m041C1DDA1B8D4067F0E85244BD73DAAEA3BA6085(L_52, /*hidden argument*/NULL);
-				TaskAwaiter_1_t7DA40DAC5737C94A250AA69DCE863F90B87F20A0  L_54 = WindowsRuntimeSystemExtensions_GetAwaiter_TisIBuffer_tC6501053A872943925EFB73C98281B002EB29FC1_mEF3F1461DFEB5F63D20F3A29277F063458DD1373(L_53, /*hidden argument*/WindowsRuntimeSystemExtensions_GetAwaiter_TisIBuffer_tC6501053A872943925EFB73C98281B002EB29FC1_mEF3F1461DFEB5F63D20F3A29277F063458DD1373_RuntimeMethod_var);
+				TaskAwaiter_1_t7DA40DAC5737C94A250AA69DCE863F90B87F20A0  L_54 = WindowsRuntimeSystemExtensions_GetAwaiter_TisIBuffer_t13BCDB1D6DE32F79AB9F9E149514026CA6B4AAEF_mEF3F1461DFEB5F63D20F3A29277F063458DD1373(L_53, /*hidden argument*/WindowsRuntimeSystemExtensions_GetAwaiter_TisIBuffer_t13BCDB1D6DE32F79AB9F9E149514026CA6B4AAEF_mEF3F1461DFEB5F63D20F3A29277F063458DD1373_RuntimeMethod_var);
 				V_6 = L_54;
 				bool L_55 = TaskAwaiter_1_get_IsCompleted_m134E90607BEA4D9BF67957D24208562CC552D0F9((TaskAwaiter_1_t7DA40DAC5737C94A250AA69DCE863F90B87F20A0 *)(&V_6), /*hidden argument*/TaskAwaiter_1_get_IsCompleted_m134E90607BEA4D9BF67957D24208562CC552D0F9_RuntimeMethod_var);
 				if (L_55)
@@ -17756,7 +17756,7 @@ IL_020f:
 				// imageData = new byte[buffer.Length];
 				RuntimeObject* L_65 = V_5;
 				NullCheck(L_65);
-				uint32_t L_66 = InterfaceFuncInvoker0< uint32_t >::Invoke(0 /* System.UInt32 Windows.Storage.Streams.IBuffer::get_Length() */, IBuffer_tC6501053A872943925EFB73C98281B002EB29FC1_il2cpp_TypeInfo_var, L_65);
+				uint32_t L_66 = InterfaceFuncInvoker0< uint32_t >::Invoke(1 /* System.UInt32 Windows.Storage.Streams.IBuffer::get_Length() */, IBuffer_t13BCDB1D6DE32F79AB9F9E149514026CA6B4AAEF_il2cpp_TypeInfo_var, L_65);
 				ByteU5BU5D_tD06FDBE8142446525DF1C40351D523A228373821* L_67 = (ByteU5BU5D_tD06FDBE8142446525DF1C40351D523A228373821*)(ByteU5BU5D_tD06FDBE8142446525DF1C40351D523A228373821*)SZArrayNew(ByteU5BU5D_tD06FDBE8142446525DF1C40351D523A228373821_il2cpp_TypeInfo_var, (uint32_t)L_66);
 				__this->set_U3CimageDataU3E5__3_6(L_67);
 				// dataReader.ReadBytes(imageData);
@@ -24669,7 +24669,7 @@ IL_01bd:
 				// var buffer = await FileIO.ReadBufferAsync(storageFile);
 				StorageFile_tDD5C98CCA54A0713E03C7864C9F1C6B67C47B24A * L_42 = V_5;
 				RuntimeObject* L_43 = FileIO_ReadBufferAsync_m041C1DDA1B8D4067F0E85244BD73DAAEA3BA6085(L_42, /*hidden argument*/NULL);
-				TaskAwaiter_1_t7DA40DAC5737C94A250AA69DCE863F90B87F20A0  L_44 = WindowsRuntimeSystemExtensions_GetAwaiter_TisIBuffer_tC6501053A872943925EFB73C98281B002EB29FC1_mEF3F1461DFEB5F63D20F3A29277F063458DD1373(L_43, /*hidden argument*/WindowsRuntimeSystemExtensions_GetAwaiter_TisIBuffer_tC6501053A872943925EFB73C98281B002EB29FC1_mEF3F1461DFEB5F63D20F3A29277F063458DD1373_RuntimeMethod_var);
+				TaskAwaiter_1_t7DA40DAC5737C94A250AA69DCE863F90B87F20A0  L_44 = WindowsRuntimeSystemExtensions_GetAwaiter_TisIBuffer_t13BCDB1D6DE32F79AB9F9E149514026CA6B4AAEF_mEF3F1461DFEB5F63D20F3A29277F063458DD1373(L_43, /*hidden argument*/WindowsRuntimeSystemExtensions_GetAwaiter_TisIBuffer_t13BCDB1D6DE32F79AB9F9E149514026CA6B4AAEF_mEF3F1461DFEB5F63D20F3A29277F063458DD1373_RuntimeMethod_var);
 				V_8 = L_44;
 				bool L_45 = TaskAwaiter_1_get_IsCompleted_m134E90607BEA4D9BF67957D24208562CC552D0F9((TaskAwaiter_1_t7DA40DAC5737C94A250AA69DCE863F90B87F20A0 *)(&V_8), /*hidden argument*/TaskAwaiter_1_get_IsCompleted_m134E90607BEA4D9BF67957D24208562CC552D0F9_RuntimeMethod_var);
 				if (L_45)
@@ -24717,7 +24717,7 @@ IL_0227:
 				// glbData = new byte[buffer.Length];
 				RuntimeObject* L_55 = V_6;
 				NullCheck(L_55);
-				uint32_t L_56 = InterfaceFuncInvoker0< uint32_t >::Invoke(0 /* System.UInt32 Windows.Storage.Streams.IBuffer::get_Length() */, IBuffer_tC6501053A872943925EFB73C98281B002EB29FC1_il2cpp_TypeInfo_var, L_55);
+				uint32_t L_56 = InterfaceFuncInvoker0< uint32_t >::Invoke(1 /* System.UInt32 Windows.Storage.Streams.IBuffer::get_Length() */, IBuffer_t13BCDB1D6DE32F79AB9F9E149514026CA6B4AAEF_il2cpp_TypeInfo_var, L_55);
 				ByteU5BU5D_tD06FDBE8142446525DF1C40351D523A228373821* L_57 = (ByteU5BU5D_tD06FDBE8142446525DF1C40351D523A228373821*)(ByteU5BU5D_tD06FDBE8142446525DF1C40351D523A228373821*)SZArrayNew(ByteU5BU5D_tD06FDBE8142446525DF1C40351D523A228373821_il2cpp_TypeInfo_var, (uint32_t)L_56);
 				V_4 = L_57;
 				// dataReader.ReadBytes(glbData);

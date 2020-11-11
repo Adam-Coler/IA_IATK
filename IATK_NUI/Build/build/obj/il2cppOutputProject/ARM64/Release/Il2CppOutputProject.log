@@ -6,6 +6,20 @@
   
   	Output directory: C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\build\bin\ARM64\Release
   	Cache directory: C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\build\obj\il2cppOutputProject\ARM64\Release
-  ObjectFiles: 369 of which compiled: 0
-  Total compilation time: 358 milliseconds.
-  Cleaned up 2 object files.
+  Il2CppGenericMethodTable.c
+  Il2CppGenericMethodDefinitions.c
+  Il2CppCompilerCalculateTypeValuesTable.cpp
+  Assembly-CSharp.cpp
+  Il2CppCompilerCalculateTypeValues2.cpp
+  Il2CppAttributes.cpp
+  ObjectFiles: 383 of which compiled: 6
+  	Time Compile: 4067 milliseconds Il2CppAttributes.cpp
+  	Time Compile: 2852 milliseconds Il2CppCompilerCalculateTypeValues2.cpp
+  	Time Compile: 1950 milliseconds Assembly-CSharp.cpp
+  	Time Compile: 817 milliseconds Il2CppCompilerCalculateTypeValuesTable.cpp
+  	Time Compile: 811 milliseconds Il2CppGenericMethodDefinitions.c
+  	Time Compile: 805 milliseconds Il2CppGenericMethodTable.c
+  Total compilation time: 4499 milliseconds.
+  Creating library C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\build\obj\il2cppOutputProject\ARM64\Release\linkresult_24E4D8E23005D6D742E0FBE83547135A\GameAssembly.lib and object C:\Users\Adam6\Documents\GitHub\IA_IATK\IATK_NUI\Build\build\obj\il2cppOutputProject\ARM64\Release\linkresult_24E4D8E23005D6D742E0FBE83547135A\GameAssembly.exp
+  Total link time: 11223 milliseconds.
+  Cleaned up 14 object files.
